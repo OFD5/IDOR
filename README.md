@@ -5,7 +5,7 @@ How to mitigate IDOR
 # What is IDORS ?
 **IDOR** stands for **"Insecure Direct Object Reference"**. It is a type of security vulnerability that occurs in web applications when an attacker can access or manipulate objects or resources directly, bypassing the application's authorization and authentication mechanisms. In other words, an attacker can access data or perform actions they are not supposed to by manipulating input parameters, such as URLs, form fields, or cookies, to reference internal objects or resources.
 # Proof of Concept 
-
+![collector-OSINT logo](https://raw.githubusercontent.com/OFD5/IDOR/main/IDOR.png)
 
 # 
 Article from Hackerone <a href="https://www.hackerone.com/company-news/rise-idor"> IDOR </a>
