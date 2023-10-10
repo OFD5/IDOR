@@ -1,5 +1,5 @@
 # IDOR
-
+![collector-OSINT logo](https://raw.githubusercontent.com/OFD5/IDOR/main/Header.jpeg)
 #
 How to mitigate IDOR  
 # What is IDORS ?
